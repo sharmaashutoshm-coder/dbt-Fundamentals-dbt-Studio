@@ -1,1 +1,1 @@
-# dbt-Fundamentals-dbt-Studio
+# dbt Fundamentals (dbt Studio)
